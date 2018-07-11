@@ -2,7 +2,7 @@
 
 namespace Swapi.DataModel.Response
 {
-    public class ResponseFilmsModel
+    public class ResponseFilmModel
     {
         public string Title { get; set; }
         public int Episode_id { get; set; }

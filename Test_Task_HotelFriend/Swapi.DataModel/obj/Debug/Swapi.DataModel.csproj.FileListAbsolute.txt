@@ -7,7 +7,6 @@ X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Swapi.DataModel\bin\Debug
 X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Swapi.DataModel\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Swapi.DataModel\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Swapi.DataModel\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Swapi.DataModel\obj\Debug\Swapi.DataModel.csprojResolveAssemblyReference.cache
 X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Swapi.DataModel\obj\Debug\Swapi.DataModel.csproj.CoreCompileInputs.cache
 X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Swapi.DataModel\obj\Debug\Swapi.DataModel.dll
 X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Swapi.DataModel\obj\Debug\Swapi.DataModel.pdb

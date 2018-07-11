@@ -1,6 +1,6 @@
 ﻿namespace Swapi.DataModel.Response
 {
-    public class ResponsePeopleModel
+    public class ResponsePersonModel
     {
         public string Name { get; set; }
         public string Birth_year { get; set; }

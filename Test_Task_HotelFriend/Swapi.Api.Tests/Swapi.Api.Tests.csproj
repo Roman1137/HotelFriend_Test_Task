@@ -39,6 +39,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="FluentAssert, Version=1.0.0.11, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentAssert.1.0.0.11\lib\FluentAssert.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.VisualStudio.TestPlatform.TestFramework, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\MSTest.TestFramework.1.2.0\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.dll</HintPath>
     </Reference>
@@ -53,6 +56,7 @@
     <Reference Include="System.Net.Http" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApiTests\DataProvider.cs" />
     <Compile Include="ApiTests\SwapiApiTests.cs" />
     <Compile Include="BaseApiTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -60,7 +64,11 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="FluentAssert.License.txt" />
+    <Content Include="FluentAssert.Provenance.txt" />
+    <Content Include="FluentAssert.xml" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Swapi.Api.Client\Swapi.Api.Client.csproj">
       <Project>{2B3CF064-2CC0-4A53-9DAC-1BD06D05832E}</Project>

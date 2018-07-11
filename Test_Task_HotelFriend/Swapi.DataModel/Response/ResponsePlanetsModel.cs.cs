@@ -1,6 +1,6 @@
 ﻿namespace Swapi.DataModel.Response
 {
-    public class ResponsePlanetsModel
+    public class ResponsePlanetModel
     {
         public string Name { get; set; }
         public string Diameter { get; set; }

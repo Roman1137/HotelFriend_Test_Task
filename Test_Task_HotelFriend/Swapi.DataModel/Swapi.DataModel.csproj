@@ -49,8 +49,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Response\ExpectedModel.cs" />
     <Compile Include="Response\ResponseFilmsModel.cs.cs" />
-    <Compile Include="Response\ResponsePeopleModel.cs" />
+    <Compile Include="Response\ResponsePersonModel.cs" />
     <Compile Include="Response\ResponsePlanetsModel.cs.cs" />
   </ItemGroup>
   <ItemGroup>

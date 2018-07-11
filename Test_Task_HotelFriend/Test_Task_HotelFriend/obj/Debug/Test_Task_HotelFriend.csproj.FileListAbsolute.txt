@@ -37,7 +37,7 @@ X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Test_Task_HotelFriend\bin
 X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Test_Task_HotelFriend\bin\Debug\nunit.framework.xml
 X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Test_Task_HotelFriend\bin\Debug\WebDriver.xml
 X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Test_Task_HotelFriend\bin\Debug\WebDriver.Support.xml
+X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Test_Task_HotelFriend\obj\Debug\Test_Task_HotelFriend.csprojResolveAssemblyReference.cache
 X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Test_Task_HotelFriend\obj\Debug\Test_Task_HotelFriend.csproj.CoreCompileInputs.cache
 X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Test_Task_HotelFriend\obj\Debug\Test_Task_HotelFriend.dll
 X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Test_Task_HotelFriend\obj\Debug\Test_Task_HotelFriend.pdb
-X:\project\HotelFriend_Test_Task\Test_Task_HotelFriend\Test_Task_HotelFriend\obj\Debug\Test_Task_HotelFriend.csprojResolveAssemblyReference.cache
